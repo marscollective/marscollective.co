@@ -7148,10 +7148,10 @@ gatsby-telemetry@^1.9.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-transformer-remark-frontmatter@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-transformer-remark-frontmatter/-/gatsby-transformer-remark-frontmatter-0.1.0.tgz#96cc5363a41eca4eba779c8fbb78595c29450475"
-  integrity sha512-xd18dt0LgFwssm8QtU0R+eAeWXJseUKcdXsuEKfIrn7ht1/r9RNLQtkb3qHCinp46BXWp5JKg80qG3NCP6HHZA==
+gatsby-transformer-remark-frontmatter@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-remark-frontmatter/-/gatsby-transformer-remark-frontmatter-1.0.1.tgz#4ce850525410c32287dca302ebf260e7e5a97809"
+  integrity sha512-6XXNIj5PUQVqvUTIikWixHIDBIASbuw6/gQDkHlDTmm7C0gB1NRcznw1p/N/i4/YMe0ceOywp3oa6Kqz7kPsnQ==
 
 gatsby-transformer-remark@^2.12.0:
   version "2.15.0"
